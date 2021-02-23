@@ -2,7 +2,7 @@
 Using OpenCV to convert an image to the frequency domain filter it, then convert it back to the spatial domain.
 Code was implemented with a few changes from https://github.com/Saleh-I/Filtering-in-frequency-domain
 original image:
-![alt text](https://github.com/Jax45/DFT-Demo/blob/main/input_gray.png?raw=true)
+![alt text](https://github.com/Jax45/DFT-Demo/blob/main/input_gray.jpg?raw=true)
 
 dft of image:
 ![alt text](https://github.com/Jax45/DFT-Demo/blob/main/DFT.png?raw=true)
